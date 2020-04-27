@@ -56,7 +56,7 @@ social:
 #   icon_pack: ai
 #   link: files/cv.pdf
 
-links
+links:
 - icon: google-scholar
   icon_pack: ai
   name: Google_scholar
