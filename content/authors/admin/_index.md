@@ -44,8 +44,8 @@ social:
 - icon: google-scholar
   icon_pack: ai
   name: google schalor
-  url: https://scholar.google.com/citations?user=_HGnO3AAAAAJ&hl=en
-  #link: https://scholar.google.com/citations?user=_HGnO3AAAAAJ&hl=en
+  #url: https://scholar.google.com/citations?user=_HGnO3AAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=_HGnO3AAAAAJ&hl=en
   
 #- icon: github
 #  icon_pack: fab
@@ -55,6 +55,12 @@ social:
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
+
+links
+- icon: google-scholar
+  icon_pack: ai
+  name: Google_scholar
+  url: https://scholar.google.com/citations?user=_HGnO3AAAAAJ&hl=en
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
