@@ -1,6 +1,6 @@
 ---
 title: Internal Project
-summary: This is the description of the project.
+summary: This is the description of the first project.
 tags:
 - Matching Problems
 date: "2020-04-27T00:00:00Z"
