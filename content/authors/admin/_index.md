@@ -44,7 +44,6 @@ social:
 - icon: google-scholar
   icon_pack: ai
   name: google schalor
-  #url: https://scholar.google.com/citations?user=_HGnO3AAAAAJ&hl=en
   link: https://scholar.google.com/citations?user=_HGnO3AAAAAJ&hl=en
   
 #- icon: github
