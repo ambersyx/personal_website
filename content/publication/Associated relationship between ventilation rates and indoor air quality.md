@@ -3,7 +3,7 @@ title = "Associated relationship between ventilation rates and indoor air qualit
 date = "2016-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["SJ Cao", "DH Zhu", "YB Yang"]
+authors = ["Cao SJ", "DH Zhu", "YB Yang"]
 
 # Publication type.
 # Legend:
@@ -57,7 +57,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 #[header]
-#image = "headers/bubbles-wide.jpg"
+image = "/img/featured.jpg"
 #caption = "My caption :smile:"
 
 +++
