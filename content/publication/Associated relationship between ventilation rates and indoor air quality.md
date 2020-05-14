@@ -3,7 +3,7 @@ title = "Associated relationship between ventilation rates and indoor air qualit
 date = "2016-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Shi Jie CAO", "Dong Hao ZHU", "Yin Bao YANG"]
+authors = ["SJ Cao", "DH Zhu", "YB Yang"]
 
 # Publication type.
 # Legend:
