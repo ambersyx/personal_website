@@ -1,6 +1,6 @@
 +++
 title = "Associated relationship between ventilation rates and indoor air quality"
-date = "2016-Jan-12"
+date = "2016-01-12"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Shi Jie CAO", "Dong Hao ZHU", "Yin Bao YANG"]
@@ -35,7 +35,7 @@ selected = true
 projects = ["emission-technology"]
 
 # Links (optional).
-url_pdf = "Associated relationship between ventilation rates and indoor air quality.pdf"
+url_pdf = "files/Associated relationship between ventilation rates and indoor air quality.pdf"
 #url_code = "#"
 #url_dataset = "#"
 #url_project = "#"
