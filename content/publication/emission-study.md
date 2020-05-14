@@ -1,9 +1,9 @@
 +++
-title = "Current Trends of Emission Reduction Technology in Vehicular Diesel Engines"
-date = "2011-01-01"
+title = "Associated relationship between ventilation rates and indoor air quality"
+date = "2016"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Shreyas Ragavan"]
+authors = ["Shi Jie CAO", "Dong Hao ZHU", "Yin Bao YANG"]
 
 # Publication type.
 # Legend:
@@ -14,14 +14,14 @@ authors = ["Shreyas Ragavan"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["4"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = ""
+publication = "Rsc Advances"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Combustion is the primary source of vehicular pollution,[1]. The Euro countries recently agreed on the goal that would reduce current vehicular emission , in particular carbon emissions by 85% by 2050. This would mean a 95% reduction in the carbonisation of the transportation sector, which is one of the accepted prolific contributors to pollution,[10]. As will be seen, de-carbonisation is a key issue with vehicular light duty diesel engine emissions, [9],along with reduction in NOx, with the latter being highlighted[3,4]. Two constituents of diesel emissions, Particulate Matter (PM) and NOx are contradictory in the conditions of their formation and hence require a combination of technologies to solve the problem satisfactorily. Consequently, emission reduction technologies are of extreme importance. The most stringent norms are those of Super Ultra Low Emission Vehicles (SULEV) formed by the Environmental Protection Agency (EPA) and the Euro 6 has been proposed and awaiting approval. The author’s opinion of a balanced solution being a combination of several technologies is established. The logical path to this conclusion is presented, duly referenced."
+abstract = "Ventilation represents a significant portion of building energy consumption. Current codes and standards do not offer adequate guidance with respect to energy efficiency and to the relationship between the ventilation rate and the degree of indoor hazard. For the sake of energy savings, it is of great importance to study the associations between ventilation rates and indoor air quality (IAQ). Hence, in this work we aimed to investigate the influence of ventilation rates on IAQ for an indoor ventilated enclosure. Herein, ventilation efficiency is represented by the maximal local volume-averaged concentration and recirculation rate. In the present study, computation fluid dynamics (CFD) was applied and the low-Re-number k–ε model (verified by experiments) was selected for Reynolds-averaged Navier–Stokes (RANS) simulations, with buoyancy effects considered due to density differences. We found that when increasing the inlet ventilation rates, the impact on indoor pollutant concentration was considerable due to the increase in the turbulent diffusion effects. Moreover, this was less dependent on the larger range of slot Reynolds numbers (for the current study, Res ≥ 3000) and it ultimately tends to show an asymptotic behavior, which refutes the common working hypothesis of “the larger the ventilation rates, the better the IAQ”. These findings should further play an important role in the design of energy-efficient ventilation systems."
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -35,7 +35,7 @@ selected = true
 projects = ["emission-technology"]
 
 # Links (optional).
-url_pdf = "/files/Emission-technology-diesel.pdf"
+url_pdf = "content/publication/Associated relationship between ventilation rates and indoor air quality.pdf"
 #url_code = "#"
 #url_dataset = "#"
 #url_project = "#"
