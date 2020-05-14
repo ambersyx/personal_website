@@ -32,7 +32,7 @@ selected = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["ventilation-rates-indoor-air-quality"]
+projects = [""]
 
 # Links (optional).
 url_pdf = "/files/Associated relationship between ventilation rates and indoor air quality.pdf"
@@ -59,5 +59,12 @@ highlight = true
 #[header]
 #image = "headers/bubbles-wide.jpg"
 #caption = "My caption :smile:"
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: ''
+  focal_point: ""
+  preview_only: false
 
 +++
