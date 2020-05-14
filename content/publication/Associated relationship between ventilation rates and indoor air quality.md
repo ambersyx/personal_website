@@ -1,6 +1,6 @@
 +++
 title = "Associated relationship between ventilation rates and indoor air quality"
-date = "2011-01-01"
+date = "2016-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Shi Jie CAO", "Dong Hao ZHU", "Yin Bao YANG"]
