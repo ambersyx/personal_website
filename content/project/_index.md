@@ -1,6 +1,7 @@
 +++
 widget = "pages"  # Use the Pages widget
 headless = true  # This file represents a page section.
+active = true
 
 # ... Put Your Section Options Here (title etc.) ...
 
@@ -38,3 +39,5 @@ subtitle = ""
   view = 2
   
 +++
+
+Here is the project list
