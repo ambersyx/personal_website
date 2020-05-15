@@ -1,16 +1,40 @@
----
-title: Projects
++++
+widget = "pages"  # Use the Pages widget
+headless = true  # This file represents a page section.
 
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-view: 3
+# ... Put Your Section Options Here (title etc.) ...
 
-# Optional header image (relative to `static/img/` folder).
-header:
-  caption: ""
-  image: ""
----
+title = "Projects"
+subtitle = ""
 
-Here is the project list of Zhu Donghao
+[content]
+  # Page type to display. E.g. post, talk, or publication.
+  page_type = "post"
+  
+  # Choose how much pages you would like to display (0 = all pages)
+  count = 5
+  
+  # Choose how many pages you would like to offset by
+  offset = 0
+
+  # Page order. Descending (desc) or ascending (asc) date.
+  order = "desc"
+
+  # Filter posts by a taxonomy term.
+  [content.filters]
+    tag = ""
+    category = ""
+    publication_type = ""
+    exclude_featured = false
+    exclude_past = false
+    exclude_future = false
+    
+[design]
+  # Toggle between the various page layout types.
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   4 = Citation (publication only)
+  view = 2
+  
++++
